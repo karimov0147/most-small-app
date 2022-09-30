@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mirzomukhammad/.gradle/daemon/7.3.3/com.myApp.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "/home/mirzomukhammad/.gradle/daemon/7.3.3/com.myApp.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.myApp.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.myApp.app-main-7:/layout/activity_main.xml"
+    }
+]

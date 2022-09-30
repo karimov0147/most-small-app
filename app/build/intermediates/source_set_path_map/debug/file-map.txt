@@ -1,0 +1,8 @@
+com.myApp.app-pngs-0 /home/mirzomukhammad/AndroidStudioProjects/myApp/app/build/generated/res/pngs/debug
+com.myApp.app-resValues-1 /home/mirzomukhammad/AndroidStudioProjects/myApp/app/build/generated/res/resValues/debug
+com.myApp.app-rs-2 /home/mirzomukhammad/AndroidStudioProjects/myApp/app/build/generated/res/rs/debug
+com.myApp.app-mergeDebugResources-3 /home/mirzomukhammad/AndroidStudioProjects/myApp/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.myApp.app-mergeDebugResources-4 /home/mirzomukhammad/AndroidStudioProjects/myApp/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.myApp.app-merged_res-5 /home/mirzomukhammad/AndroidStudioProjects/myApp/app/build/intermediates/merged_res/debug
+com.myApp.app-debug-6 /home/mirzomukhammad/AndroidStudioProjects/myApp/app/src/debug/res
+com.myApp.app-main-7 /home/mirzomukhammad/AndroidStudioProjects/myApp/app/src/main/res

@@ -1,0 +1,2 @@
+com.myApp:layout/activity_main = 0x7f020000
+com.myApp:id/btn = 0x7f010000
